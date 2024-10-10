@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!usr/bin/env python3
 
 import sys
 # caution: path[0] is reserved for script path (or '' in REPL)
@@ -9,7 +9,7 @@ from myy505TesterLib import *
 ################################################################
 # CHANGE THIS TO YOUR MATRIC NUMBER
 ################################################################
-matricNumber = 0
+matricNumber = 4933
 
 # Modifications/additions to the data labels of the program
 newLabels = {
